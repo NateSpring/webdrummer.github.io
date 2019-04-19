@@ -1,0 +1,1 @@
+This is a drumming app I made utilizing JavaScript. In this project I learned all about different key codes and how to map them to play sounds from a local folder of sound files. This project was a lot of fun with instant reward of annoying my wife afterwards. Enjoy!
